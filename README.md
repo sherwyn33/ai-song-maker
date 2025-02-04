@@ -1,0 +1,1 @@
+This is an old version. The latest version including the Song Maker Prompt is currently only available to my $5 tier Github sponsors - https://github.com/sponsors/sherwyn33. I plan to make that open source too at some point
